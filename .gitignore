@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/chip8-d
+chip8-d.so
+chip8-d.dylib
+chip8-d.dll
+chip8-d.a
+chip8-d.lib
+chip8-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
+raylib.lib

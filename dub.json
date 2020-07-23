@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Zayd Qumsieh"
+	],
+	"copyright": "Copyright © 2020, Zayd Qumsieh",
+	"dependencies": {
+		"bindbc-sdl": "~>0.19.0",
+		"raylib-d": "~>3.0.2"
+	},
+	"description": "Chip-8 Emulator in D",
+	"license": "proprietary",
+	"name": "chip8-d",
+	"libs": [ "raylib" ]
+}
